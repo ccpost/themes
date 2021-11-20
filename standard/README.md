@@ -34,6 +34,7 @@ Repo: https://github.com/eendroroy/alacritty-theme
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Material Theme](material_theme.yaml)**:|<img src='previews/material_theme.yaml.svg' width='300'>|
 |**[Material Theme Mod](material_theme_mod.yaml)**:|<img src='previews/material_theme_mod.yaml.svg' width='300'>|
+|**[Monokai Pro](monokai_pro.yaml)**:|<img src='previews/monokai_pro.yaml.svg' width='300'>|
 |**[Nord](nord.yaml)**:|<img src='previews/nord.yaml.svg' width='300'>|
 |**[Oceanic Next](oceanic_next.yaml)**:|<img src='previews/oceanic_next.yaml.svg' width='300'>|
 |**[Omni](omni.yaml)**:|<img src='previews/omni.yaml.svg' width='300'>|
